@@ -4,3 +4,5 @@
 本地部署web端推理效果
 
 ![](./test.png)
+
+训练的模型链接：https://download.csdn.net/download/m0_72845244/89368722?spm=1001.2014.3001.5501
